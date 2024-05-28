@@ -1,0 +1,16 @@
+.hide-description {
+  display: none;
+}
+
+.accordion-unit{
+  cursor: pointer;
+  background-color: aqua;
+}
+
+.accordion-description{
+  background-color: beige;
+}
+
+p {
+  display: inline-block;
+}
