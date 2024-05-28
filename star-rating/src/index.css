@@ -1,0 +1,15 @@
+.single-star{
+  padding: 0.2rem;
+  font-size: 40px;
+  cursor: pointer;
+}
+
+
+.selected-star {
+  color: red;
+}
+
+.hover-star {
+  color: orange;
+}
+

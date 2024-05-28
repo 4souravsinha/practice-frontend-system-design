@@ -1,0 +1,6 @@
+.folder , .file{
+  padding-left: 2rem;
+  &:hover{
+    cursor: pointer;
+  }
+}
